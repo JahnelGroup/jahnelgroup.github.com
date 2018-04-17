@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/programming.png'
-title: Guess What's the Output of this Code
+title: Guess the Output of this Code
 date:   2018-04-16 10:18:00
 tags: platform
 subclass: 'post tag-test tag-content'
