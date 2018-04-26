@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/presence.jpg'
 title: ServiceNow Presence API
-date:   2018-04-16 10:18:00
+date:   2018-04-26 10:18:00
 tags: platform ServiceNow Now API Presence
 subclass: 'post tag-test tag-content'
 categories: jakubsynowiec
