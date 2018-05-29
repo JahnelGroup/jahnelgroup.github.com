@@ -47,5 +47,14 @@
       <description>As a new developer, working on the platform for about 5 months, these are some of the thoughts I have on the front-end development for ServiceNow. This post is targeted towards people that have just gone through ServiceNow’s Learning Plan, started getting used to the platform, or just generally curious on how ServiceNow approaches interfaces/design. Veterans are more than welcome to expand on ideas that are going to be listed here and give any helpful insight.</description>
     </item>
     
+    <item>
+      <title>Service Portal Dependencies</title>
+      <link>/service-portal-dependencies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service-portal-dependencies/</guid>
+      <description>One of ServiceNow’s greatest strengths is its flexibility and the creation of near limitless possibilities. This same principle carries over into the Service Portal and the development of custom widgets. If you’ve ever found yourself wishing you could import a cool Javascript library or a new font or stylesheet, I would tell you, you can! The Service Portals Widget Dependencies allow you use third party libraries or stylesheets in your widgets opening up tons of possibilities.</description>
+    </item>
+    
   </channel>
 </rss>

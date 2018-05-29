@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Portal on </title>
+    <link>/tags/service-portal/</link>
+    <description>Recent content in Service Portal on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/tags/service-portal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service Portal Dependencies</title>
+      <link>/service-portal-dependencies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service-portal-dependencies/</guid>
+      <description>Service Portal Dependencies How to use third party libraries in your custom service portal widgets One of ServiceNow’s greatest strengths is its flexibility and the creation of near limitless possibilities. This same principle carries over into the Service Portal and the development of custom widgets. If you’ve ever found yourself wishing you could import a cool Javascript library or a new font or stylesheet, I would tell you, you can!</description>
+    </item>
+    
+  </channel>
+</rss>

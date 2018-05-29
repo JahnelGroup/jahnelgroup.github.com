@@ -20,5 +20,23 @@
       <description>Want a foolproof plan to guarantee success on your ServiceNow Certification Exam? Well, this isn’t it, but it’s as close as I can get! I’m not offering any guarantees, but what I can offer is a guide which has been proven successful for both myself and the rest of my team. By the end of reading this post my goal is to have you feeling prepared and confident to go out and crush your ServiceNow certification exam!</description>
     </item>
     
+    <item>
+      <title>Service Portal Dependencies</title>
+      <link>/service-portal-dependencies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service-portal-dependencies/</guid>
+      <description>One of ServiceNow’s greatest strengths is its flexibility and the creation of near limitless possibilities. This same principle carries over into the Service Portal and the development of custom widgets. If you’ve ever found yourself wishing you could import a cool Javascript library or a new font or stylesheet, I would tell you, you can! The Service Portals Widget Dependencies allow you use third party libraries or stylesheets in your widgets opening up tons of possibilities.</description>
+    </item>
+    
+    <item>
+      <title>The Last Carousel Widget You&#39;ll Ever Need</title>
+      <link>/the-last-carousel-widget-youll-ever-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/the-last-carousel-widget-youll-ever-need/</guid>
+      <description>Let’s face it, creating a custom carousel sucks! I’ve come to be known as “the carousel guy” in our dev team here at JG. At first, it was because whenever we needed to create a custom carousel I was the guy who got stuck with the job, but as time went on it was because I developed a deep love for cool carousels! Now, I want to spread that love of carousels to the ServiceNow Community.</description>
+    </item>
+    
   </channel>
 </rss>

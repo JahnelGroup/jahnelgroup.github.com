@@ -20,5 +20,23 @@
       <description>Over the time that I have been working with ServiceNow I have discovered several interesting quirks about the behavior of the code. Some of them kept me wondering for a while, others made me giggle. I want to share one of them with you, that I have discovered recently with Dylan, while debugging one of our applications, that left us with one question: Why does it work like that?</description>
     </item>
     
+    <item>
+      <title>Service Portal Dependencies</title>
+      <link>/service-portal-dependencies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service-portal-dependencies/</guid>
+      <description>One of ServiceNow’s greatest strengths is its flexibility and the creation of near limitless possibilities. This same principle carries over into the Service Portal and the development of custom widgets. If you’ve ever found yourself wishing you could import a cool Javascript library or a new font or stylesheet, I would tell you, you can! The Service Portals Widget Dependencies allow you use third party libraries or stylesheets in your widgets opening up tons of possibilities.</description>
+    </item>
+    
+    <item>
+      <title>The Last Carousel Widget You&#39;ll Ever Need</title>
+      <link>/the-last-carousel-widget-youll-ever-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/the-last-carousel-widget-youll-ever-need/</guid>
+      <description>Let’s face it, creating a custom carousel sucks! I’ve come to be known as “the carousel guy” in our dev team here at JG. At first, it was because whenever we needed to create a custom carousel I was the guy who got stuck with the job, but as time went on it was because I developed a deep love for cool carousels! Now, I want to spread that love of carousels to the ServiceNow Community.</description>
+    </item>
+    
   </channel>
 </rss>

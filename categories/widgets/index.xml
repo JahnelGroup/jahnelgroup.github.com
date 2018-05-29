@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Widgets on </title>
+    <link>/categories/widgets/</link>
+    <description>Recent content in Widgets on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/categories/widgets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Last Carousel Widget You&#39;ll Ever Need</title>
+      <link>/the-last-carousel-widget-youll-ever-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/the-last-carousel-widget-youll-ever-need/</guid>
+      <description>Let’s face it, creating a custom carousel sucks! I’ve come to be known as “the carousel guy” in our dev team here at JG. At first, it was because whenever we needed to create a custom carousel I was the guy who got stuck with the job, but as time went on it was because I developed a deep love for cool carousels! Now, I want to spread that love of carousels to the ServiceNow Community.</description>
+    </item>
+    
+  </channel>
+</rss>
