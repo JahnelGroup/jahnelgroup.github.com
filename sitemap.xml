@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/service-portal-dependencies/</loc>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/the-last-carousel-widget-youll-ever-need/</loc>
+    <lastmod>2018-05-29T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/guess-the-output-of-this-code/</loc>
     <lastmod>2018-04-26T13:55:00-04:00</lastmod>
   </url>
@@ -34,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-04-26T13:55:00-04:00</lastmod>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,25 +66,25 @@
   
   <url>
     <loc>/tags/code/</loc>
-    <lastmod>2018-04-26T13:55:00-04:00</lastmod>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/developer/</loc>
-    <lastmod>2018-04-26T10:18:00+00:00</lastmod>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/developer/</loc>
-    <lastmod>2018-04-26T13:55:00-04:00</lastmod>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/dmann/</loc>
-    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -116,7 +126,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-04-26T13:55:00-04:00</lastmod>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,11 +138,8 @@
   
   <url>
     <loc>/categories/service-portal/</loc>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/service-portal-dependencies/</loc>
   </url>
   
   <url>
@@ -143,6 +150,7 @@
   
   <url>
     <loc>/tags/serviceportal/</loc>
+    <lastmod>2018-05-29T13:55:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,10 +161,6 @@
   </url>
   
   <url>
-    <loc>/the-last-carousel-widget-youll-ever-need/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/ui/ux/</loc>
     <lastmod>2017-10-02T10:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -164,11 +168,13 @@
   
   <url>
     <loc>/tags/widgets/</loc>
+    <lastmod>2018-05-29T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/widgets/</loc>
+    <lastmod>2018-05-29T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
